@@ -4,6 +4,7 @@ export default function Home() {
       <h1>hello</h1>
       <h1>feature 1 added</h1>
       <h1>feature 2 added.. prevent direct push to main</h1>
+      <h1>feature 3 added.. prevent direct push to main - disabled bypass</h1>
     </div>
   );
 }
